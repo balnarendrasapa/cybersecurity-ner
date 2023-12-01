@@ -13,5 +13,13 @@
 
 ## Huggingface
 
-- The finetuned model is available on the huggingface. click [here](https://huggingface.co/bnsapa/cybersecurity-ner) to go there
+- The finetuned model is available on the huggingface. click [here](https://huggingface.co/bnsapa/cybersecurity-ner) to go there.
+
+
+## Example
+
+I typed `abcde is a computer malware`. I defined the context such that it implies `abcde` is virus and model is able to capture that.
+
+![image](https://github.com/balnarendrasapa/cybersecurity-ner/assets/61614290/b97a37c8-a4d3-464f-a48b-a6adb21dced8)
+
 
